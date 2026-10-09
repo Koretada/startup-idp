@@ -1,0 +1,3 @@
+[submodule "startup-idp-argocd"]
+	path = startup-idp-argocd
+	url = https://github.com/Koretada/startup-idp-argocd.git
