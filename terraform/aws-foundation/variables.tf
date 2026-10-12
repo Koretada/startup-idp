@@ -19,7 +19,7 @@ variable "vpc_cidr_block" {
 variable "ec2_type" {
   type        = string
   description = "Type de l'EC2"
-  default     = "t3.medium"
+  default     = "t3a.large"
 }
 
 variable "subnet_public_cidr_block" {
